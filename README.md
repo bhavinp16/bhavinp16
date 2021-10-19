@@ -15,18 +15,22 @@
 - [LinkedIn](https://www.linkedin.com/in/bhavinp16/)
 - [Instagram](https://www.instagram.com/_bhavin.p16/)
 - [Gmail](mailto:bhavin1625p@gmail.com/)
+- [Twitter](https://www.twitter.com/_bhavinp16)
 
 
 ### Languages and Tools:
 
 <p>
+  
+<img height="35" src="https://cdn.iconscout.com/icon/free/png-256/react-1-282599.png">
+  
 <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
 
 <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
 
 <!-- <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"> -->
 
-<img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png">
+<img height="35" src="https://i.redd.it/31b2ii8hchi31.jpg">
 
 <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
 
